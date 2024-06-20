@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "a50519b04e6d5d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "51b1ca08977d47b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed4ae99ecd532dcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/物联网网关开发/反射功能梳理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86be775065f8c2ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b5ce34dea5ec6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82e7bba965652b40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "530c8d5c1a3cdb51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "929eccb27c0184a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42afe52a0c190bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "f899f10be0f48d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7d5fc1bb52037d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程/物联网网关开发/反射功能梳理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "90d78379cbc6afa8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "编程/物联网网关开发/反射功能梳理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "915dee8e3e5f271c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "40176b21137e62fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "编程/物联网网关开发/反射功能梳理.md"
+              }
+            }
+          },
+          {
+            "id": "c3a675a2dd4d2a85",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "ed4ae99ecd532dcd",
+  "lastOpenFiles": [
+    "编程/物联网网关开发/开发待解决问题汇总.md",
+    "编程/物联网网关开发/反射功能梳理.md",
+    "编程/Resharper/快捷键.md",
+    "resharper快捷键.png",
+    "未命名.canvas",
+    "编程/Resharper",
+    "编程/未命名.md",
+    "编程/物联网网关开发/未命名.md",
+    "编程/物联网网关开发/关于网关的任务管理后台服务.md",
+    "2023-12-27_周三.md",
+    "模版/日志记录.md",
+    "每日记录/2023-12-28_周四.md",
+    "编程/物联网网关开发",
+    "每日记录/Invalid date.md",
+    "每日记录/日志记录Invalid date.md",
+    "每日记录/日志记录2023-12-28_周四.md",
+    "每日记录/日志记录2023-12-28_周四.md",
+    "Daily/2023-12-28_周四.md",
+    "Daily",
+    "Daily/2023-12-27_周三.md",
+    "Daily/2023-12-29_周五.md",
+    "Daily/Invalid date.md",
+    "主页",
+    "每日记录/个人日记/2023-12-29.md",
+    "每日记录/个人日记/2023-12-28.md",
+    "每日记录/个人日记/2023-12-27.md",
+    "模版",
+    "Tasks Plugin - Review and check your Statuses 2023-12-27 22-37-57.md",
+    "每日记录/每日工作记录",
+    "每日记录/个人日记",
+    "Obsidian使用方法测试",
+    "每日记录",
+    "新建文件夹",
+    "2023-12-27.md",
+    "测试文件夹/测试3.md",
+    "测试文件夹/测试2.md",
+    "测试文件夹/测试.md"
+  ]
+}
