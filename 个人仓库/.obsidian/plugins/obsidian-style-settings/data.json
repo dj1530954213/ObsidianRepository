@@ -11,11 +11,9 @@
   "blue-topaz-theme@@justify-align": false,
   "blue-topaz-theme@@inline-title-text-align-settings": "inline-title-text-align-center",
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-sublime",
-  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
-  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-default-style",
+  "Blue-Topaz-Codebox-Highlight@@code-box-style-option": "codebox-frosted-glass",
   "Blue-Topaz-Codebox-Highlight@@mute-code-indent-line": false,
   "Blue-Topaz-Codebox-Highlight@@code-line-number": false,
-  "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": true,
   "Blue-Topaz-Codebox-Highlight@@remove-language-type": false,
   "Blue-Topaz-Codebox-Highlight@@blur-codebox-frosted-glass": 0,
   "Blue-Topaz-Codebox-Highlight@@letter-space-code": 0.6,
@@ -25,5 +23,12 @@
   "blue-topaz-theme@@clutter-free-headings": false,
   "blue-topaz-theme@@funny-header-anim": false,
   "blue-topaz-theme@@remove-heading-indicator": false,
-  "blue-topaz-theme@@h2-bg-color@@light": "#EFEFF0"
+  "blue-topaz-theme@@h2-bg-color@@light": "#EFEFF0",
+  "Blue-Topaz-Codebox-Highlight@@nowrap-edit-codebox": true,
+  "Blue-Topaz-Codebox-Highlight@@whole-code-wrap": false,
+  "minimal-style@@minimal-code-scroll": true,
+  "things-style@@fancy-code": true,
+  "things-style@@mobile-black-background": false,
+  "things-style@@no-kanban-styles": false,
+  "things-style@@strong-color": "#0A4654"
 }

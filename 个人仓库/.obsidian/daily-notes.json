@@ -1,3 +1,5 @@
 {
-  "folder": "每日记录/个人日记"
+  "folder": "每日记录",
+  "template": "模版/日志记录",
+  "autorun": false
 }

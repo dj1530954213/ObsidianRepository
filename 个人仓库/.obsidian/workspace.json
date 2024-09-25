@@ -4,22 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "51b1ca08977d47b7",
+        "id": "74f31fa6df3916ad",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4ae99ecd532dcd",
+            "id": "4c5e158fd590f147",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/物联网网关开发/反射功能梳理.md",
+                "file": "编程/工作代码/车号识别/车号识别执行流程梳理(执行间隔10秒钟).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 293.5
   },
   "right": {
     "id": "42afe52a0c190bac",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/物联网网关开发/反射功能梳理.md",
+                "file": "编程/工作代码/车号识别/车号识别执行流程梳理(执行间隔10秒钟).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/物联网网关开发/反射功能梳理.md",
+                "file": "编程/工作代码/车号识别/车号识别执行流程梳理(执行间隔10秒钟).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/物联网网关开发/反射功能梳理.md"
+                "file": "编程/工作代码/车号识别/车号识别执行流程梳理(执行间隔10秒钟).md"
               }
             }
           },
           {
-            "id": "c3a675a2dd4d2a85",
+            "id": "3d5cfffc05fa81d0",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -138,11 +139,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 213.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,45 +159,45 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ed4ae99ecd532dcd",
+  "active": "4c5e158fd590f147",
   "lastOpenFiles": [
-    "编程工具/工具/GIT.md",
-    "编程/物联网网关开发/反射功能梳理.md",
-    "编程工具/工具",
-    "编程工具",
-    "编程/物联网网关开发/开发待解决问题汇总.md",
-    "编程/Resharper/快捷键.md",
-    "resharper快捷键.png",
-    "未命名.canvas",
-    "编程/Resharper",
-    "编程/未命名.md",
-    "编程/物联网网关开发/未命名.md",
-    "编程/物联网网关开发/关于网关的任务管理后台服务.md",
-    "2023-12-27_周三.md",
-    "模版/日志记录.md",
-    "每日记录/2023-12-28_周四.md",
-    "编程/物联网网关开发",
+    "编程/工作代码/车号识别/车号识别代码梳理.md",
+    "编程/工作代码/车号识别/车号识别执行流程梳理(执行间隔10秒钟).md",
+    "编程/物联网网关开发/开发中的知识点总结/笔记存放区域/关于程序集加载中的Assembly.Load、LoadFrom、LoadFile.md",
+    "编程/工作代码/车号识别",
+    "编程/工作代码",
+    "未命名",
+    "编程/物联网网关开发/开发中的知识点总结/笔记索引.md",
+    "编程/工控网关源码梳理/配置文件相关/南向配置文件.md",
+    "Linux/OpenWrt/FRP教程.md",
+    "编程/物联网网关开发/第三方驱动开发/Modbus/Modbus协议的适配.md",
+    "Excalidraw/Drawing 2024-09-06 17.04.10.excalidraw.md",
     "每日记录/Invalid date.md",
-    "每日记录/日志记录Invalid date.md",
-    "每日记录/日志记录2023-12-28_周四.md",
-    "每日记录/日志记录2023-12-28_周四.md",
-    "Daily/2023-12-28_周四.md",
-    "Daily",
-    "Daily/2023-12-27_周三.md",
-    "Daily/2023-12-29_周五.md",
-    "Daily/Invalid date.md",
-    "主页",
-    "每日记录/个人日记/2023-12-29.md",
-    "每日记录/个人日记/2023-12-28.md",
-    "每日记录/个人日记/2023-12-27.md",
-    "模版",
-    "Tasks Plugin - Review and check your Statuses 2023-12-27 22-37-57.md",
-    "每日记录/每日工作记录",
-    "每日记录/个人日记",
-    "Obsidian使用方法测试",
-    "2023-12-27.md",
-    "测试文件夹/测试3.md",
-    "测试文件夹/测试2.md",
-    "测试文件夹/测试.md"
+    "编程/物联网网关开发/开发中的知识点总结/笔记存放区域/反射功能梳理.md",
+    "编程/物联网网关开发/开发中的知识点总结/笔记存放区域",
+    "编程/物联网网关开发/关于网关的任务管理后台服务.md",
+    "编程/物联网网关开发/关于第三方驱动通讯参数设置的问题.md",
+    "编程/物联网网关开发/开发中的知识点总结",
+    "编程/物联网网关开发/第三方驱动开发/Modbus/具体适配详解/Modbus设备初始化及连接流程.md",
+    "Excalidraw",
+    "编程/物联网网关开发/第三方驱动开发/Modbus/具体适配详解/Modbus协议的批量读取算法.md",
+    "编程/物联网网关开发/开发待解决问题汇总.md",
+    "编程工具/工具/GIT.md",
+    "每日记录/2024-08-31.md",
+    "编程/物联网网关开发/第三方驱动开发/Modbus/具体适配详解",
+    "编程/物联网网关开发/第三方驱动开发/Modbus",
+    "编程/物联网网关开发/第三方驱动开发",
+    "编程/物联网网关开发/未命名.md",
+    "编程工具/其他/WIFI连接.md",
+    "编程工具/其他",
+    "编程工具/Docker/关于使用Docker时遇到的问题/构建镜像的时候遇到无法访问Nuget.md",
+    "编程工具/Docker/Docker命令.md",
+    "编程工具/Docker/DOCKER安装.md",
+    "编程/Resharper/resharper快捷键.png",
+    "编程/Resharper/快捷键.md",
+    "编程工具/工具/未命名.md",
+    "Linux/OpenWrt/zeroiter教程.md",
+    "每日记录/2024-07-03.md",
+    "未命名.canvas"
   ]
 }

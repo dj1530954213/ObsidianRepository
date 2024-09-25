@@ -17,6 +17,10 @@
     {
       "folder": "每日记录",
       "template": "模版/日志记录.md"
+    },
+    {
+      "folder": "每日计划",
+      "template": "模版/日程.md"
     }
   ],
   "syntax_highlighting": true,
