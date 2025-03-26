@@ -1,4 +1,4 @@
-**创建镜像**：
+clea**创建镜像**：
 ```shell
 docker build --no-cache --progress=plain -t auth .
 ```

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f645af06bb08e4d",
+        "id": "f43f14c75289e575",
         "type": "tabs",
         "children": [
           {
-            "id": "4a5f09d8e329d628",
+            "id": "eed181c93032cb03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/华为交换机配置VLAN.md",
+                "file": "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "华为交换机配置VLAN"
+              "title": "未命名"
             }
           }
         ],
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -78,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 371.5
   },
   "right": {
     "id": "42afe52a0c190bac",
@@ -152,8 +153,8 @@
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ],
@@ -166,7 +167,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -174,57 +174,58 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-day-planner:Timeline": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "4a5f09d8e329d628",
+  "active": "eed181c93032cb03",
   "lastOpenFiles": [
-    "自动控制相关/PID控制/学习笔记.md",
-    "自动控制相关/PID控制/相关概念.md",
-    "自动控制相关/PID控制/在过程控制中使用的更多的位置型PID和离散型PID的详解.md",
-    "自动控制相关/PID控制/学习路线.md",
-    "自动控制相关/PID控制/未命名.md",
-    "编程/PLC通用框架/PLC通用框架汇总/AI模块点位量程转换及映射.md",
+    "编程/Rust源码学习/Modbus.md",
+    "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
+    "编程/Rust源码学习",
+    "工作相关记录/2025年工作相关/FAT项目相关笔记/原测试流程.md",
+    "工作相关记录/2025年工作相关/FAT项目相关笔记/项目结构.md",
+    "工作相关记录/2025年工作相关/FAT项目相关笔记/FAT测试PLC点位.md",
+    "工作相关记录/2025年工作相关/deepseek/Cursor提问编辑.md",
+    "Excalidraw/Drawing 2025-03-24 17.08.22.excalidraw.md",
+    "Excalidraw",
+    "工作日志.md",
     "编程/华为交换机配置VLAN.md",
+    "编程/工控网关源码梳理/配置文件相关/南向配置文件.md",
+    "编程/MySql相关.md",
+    "工作相关记录/2025年工作相关/deepseek/服务器相关配置.md",
+    "编程/未命名.md",
+    "工作相关记录/2025年工作相关/deepseek/本地安装机部署.md",
+    "工作相关记录/2025年工作相关/deepseek/公司服务器安装时所需命令.md",
+    "工作相关记录/2025年工作相关/简道云/key和测试网站.md",
+    "工作相关记录/2025年工作相关/简道云",
     "工作相关记录/液位计/霍尼韦尔液位计.md",
-    "编程工具/工具/GIT.md",
-    "编程工具/工具/代码备份.md",
-    "编程/AspNetCoreWebApi相关/将AspNetCoreApi作为Windows服务运行.md",
-    "编程/AspNetCoreWebApi相关/使用NLog作为AspNetCoreWebApi的日志记录需要用到的相关设置.md",
-    "编程/AspNetCoreWebApi相关/相关图片",
-    "编程/未命名",
-    "编程/AspNetCoreWebApi相关/相关图片/Pasted image 20241118170252.png",
-    "编程/AspNetCoreWebApi相关",
-    "工作相关记录/液位计",
-    "工作相关记录",
-    "编程/Halcon/过程笔记.md",
-    "编程/Halcon/模版读取.md",
-    "编程/Halcon/罐口识别.md",
-    "编程/Halcon/常用指令(输入图像：输出图像：输入控制参数：输出控制参数).md",
-    "图片资源/cfa5bc48eedb719ce230739bf80edef.png",
-    "自动控制相关/PID控制",
-    "编程/Halcon/保存过程图片.md",
-    "自动控制相关",
-    "编程/Halcon/部署至其他电脑.md",
-    "每日记录/2024-10-07_周一.md",
-    "编程/Halcon/图像锐化.md",
-    "编程/Halcon/图像增强.md",
-    "编程/Halcon/Halcon中关于变换.md",
-    "图片资源/1727794297990.png",
-    "图片资源/1727794180043.png",
-    "图片资源/1727794108572.png",
-    "图片资源/1727794032971.png",
-    "编程/Halcon",
-    "图片资源/Pasted image 20240928195957.png",
-    "图片资源",
-    "Pasted image 20240928172420.png",
-    "Pasted image 20240928172413.png",
-    "图片资源/Pasted image 20240928172400.png",
+    "工作相关记录/2025年工作相关/FAT项目相关笔记",
+    "工作相关记录/2025年工作相关",
     "编程/PLC通用框架/PLC通用框架目录.md",
-    "编程/物联网网关开发/开发中的知识点总结/笔记索引.md",
-    "编程/PLC通用框架/PLC通用框架汇总",
-    "编程/工作代码/车号识别/车号识别执行流程梳理(执行间隔10秒钟).md",
-    "编程/工作代码/车号识别/车号识别代码梳理.md",
+    "User/recoder.md",
+    "编程工具/dotnet core相关命令行/命令行.md",
+    "编程工具/dotnet core相关命令行",
+    "未命名",
+    "工作相关记录/2025年工作相关/deepseek",
+    "编程工具/Docker/Docker命令.md",
+    "编程工具/Docker/DOCKER安装.md",
+    "编程/FastApi/FastApi.md",
+    "编程/FastApi/直播.md",
+    "图片资源/Pasted image 20250306192359.png",
+    "图片资源/Pasted image 20250306191951.png",
+    "图片资源/Pasted image 20250306184312.png",
+    "图片资源/Pasted image 20250305200144.png",
+    "图片资源/Pasted image 20250304195543.png",
+    "编程/物联网网关开发/工控协议相关内容/面试.md",
+    "编程/FastApi",
+    "编程/物联网网关开发/工控协议相关内容/未命名.md",
+    "图片资源/Pasted image 20250301124356.png",
+    "图片资源/Pasted image 20250301124007.png",
+    "图片资源/Pasted image 20250228191803.png",
+    "图片资源/Pasted image 20250228160418.png",
+    "图片资源/Pasted image 20250228154837.png",
+    "编程/物联网网关开发/工控协议相关内容",
     "未命名.canvas"
   ]
 }

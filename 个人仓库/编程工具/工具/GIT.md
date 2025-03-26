@@ -6,3 +6,8 @@ git config --global http.https://github.com.proxy socks5://127.0.0.1:10808
 git reset --soft HEAD~1
 //通过git log查看HEAD是否指向了上次的提交
 ```
+
+GIT中回退至上一次提交的节点
+```shell
+git reset
+```
