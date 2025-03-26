@@ -11,3 +11,9 @@ GIT中回退至上一次提交的节点
 ```shell
 git reset
 ```
+
+
+通过nssm注册git自动推送服务
+```shell
+nssm install GitAutoPush "D:\GIT\Git\code\GitAutoPush\auto_push_for_git\target\release\auto_push_for_git.exe" "-c D:\GIT\Git\code\GitAutoPush\auto_push_for_git\config.toml -d"
+```
