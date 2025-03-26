@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f43f14c75289e575",
+        "id": "e2692db96671d135",
         "type": "tabs",
         "children": [
           {
-            "id": "eed181c93032cb03",
+            "id": "1d8601524b5bd491",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,20 +141,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/华为交换机配置VLAN.md"
+                "file": "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "华为交换机配置VLAN 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
-            "id": "3d5cfffc05fa81d0",
+            "id": "8030b15cc17932d9",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
+              "icon": "calendar-with-checkmark",
+              "title": "Day Planner Timeline"
             }
           }
         ],
@@ -178,14 +181,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eed181c93032cb03",
+  "active": "1d8601524b5bd491",
   "lastOpenFiles": [
-    "编程/Rust源码学习/Modbus.md",
-    "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
-    "编程/Rust源码学习",
     "工作相关记录/2025年工作相关/FAT项目相关笔记/原测试流程.md",
+    "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
+    "未命名.canvas",
     "工作相关记录/2025年工作相关/FAT项目相关笔记/项目结构.md",
+    "编程/AspNetCoreWebApi相关/使用NLog作为AspNetCoreWebApi的日志记录需要用到的相关设置.md",
+    "编程/AspNetCoreWebApi相关/将AspNetCoreApi作为Windows服务运行.md",
     "工作相关记录/2025年工作相关/FAT项目相关笔记/FAT测试PLC点位.md",
+    "编程/Rust源码学习/Modbus.md",
+    "编程/Rust源码学习",
     "工作相关记录/2025年工作相关/deepseek/Cursor提问编辑.md",
     "Excalidraw/Drawing 2025-03-24 17.08.22.excalidraw.md",
     "Excalidraw",
@@ -211,21 +217,17 @@
     "编程工具/Docker/Docker命令.md",
     "编程工具/Docker/DOCKER安装.md",
     "编程/FastApi/FastApi.md",
-    "编程/FastApi/直播.md",
     "图片资源/Pasted image 20250306192359.png",
     "图片资源/Pasted image 20250306191951.png",
     "图片资源/Pasted image 20250306184312.png",
     "图片资源/Pasted image 20250305200144.png",
     "图片资源/Pasted image 20250304195543.png",
-    "编程/物联网网关开发/工控协议相关内容/面试.md",
     "编程/FastApi",
-    "编程/物联网网关开发/工控协议相关内容/未命名.md",
     "图片资源/Pasted image 20250301124356.png",
     "图片资源/Pasted image 20250301124007.png",
     "图片资源/Pasted image 20250228191803.png",
     "图片资源/Pasted image 20250228160418.png",
     "图片资源/Pasted image 20250228154837.png",
-    "编程/物联网网关开发/工控协议相关内容",
-    "未命名.canvas"
+    "编程/物联网网关开发/工控协议相关内容"
   ]
 }
