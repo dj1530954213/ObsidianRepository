@@ -36,6 +36,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程工具/工具/GIT.md",
+                "file": "编程工具/工具/未命名 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "GIT 的大纲"
+              "title": "未命名 1 的大纲"
             }
           },
           {
@@ -195,10 +196,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1d8601524b5bd491",
+  "active": "7af94553e813deb6",
   "lastOpenFiles": [
-    "编程工具/工具/未命名 1.md",
     "编程工具/工具/GIT.md",
+    "编程工具/工具/未命名 1.md",
     "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
     "工作相关记录/2025年工作相关/FAT项目相关笔记/原测试流程.md",
     "未命名.canvas",
