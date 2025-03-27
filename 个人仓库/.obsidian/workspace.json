@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
+                "file": "工作相关记录/2025年工作相关/银行API/银行API需求.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "银行API需求"
             }
           }
         ],
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
+                "file": "工作相关记录/2025年工作相关/银行API/银行API需求.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "银行API需求 的大纲"
             }
           },
           {
@@ -183,9 +183,11 @@
   },
   "active": "1d8601524b5bd491",
   "lastOpenFiles": [
+    "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
+    "工作相关记录/2025年工作相关/银行API/银行API需求.md",
+    "工作相关记录/2025年工作相关/银行API",
     "编程工具/工具/GIT.md",
     "编程工具/工具/未命名 1.md",
-    "工作相关记录/2025年工作相关/FAT项目相关笔记/未命名.md",
     "工作相关记录/2025年工作相关/FAT项目相关笔记/原测试流程.md",
     "未命名.canvas",
     "工作相关记录/2025年工作相关/FAT项目相关笔记/项目结构.md",
@@ -217,7 +219,6 @@
     "未命名",
     "工作相关记录/2025年工作相关/deepseek",
     "编程工具/Docker/Docker命令.md",
-    "编程工具/Docker/DOCKER安装.md",
     "图片资源/Pasted image 20250306192359.png",
     "图片资源/Pasted image 20250306191951.png",
     "图片资源/Pasted image 20250306184312.png",
@@ -228,7 +229,6 @@
     "图片资源/Pasted image 20250301124007.png",
     "图片资源/Pasted image 20250228191803.png",
     "图片资源/Pasted image 20250228160418.png",
-    "图片资源/Pasted image 20250228154837.png",
-    "编程/物联网网关开发/工控协议相关内容"
+    "图片资源/Pasted image 20250228154837.png"
   ]
 }
